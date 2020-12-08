@@ -1,0 +1,6 @@
+.codesandbox
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+.eslintcache
