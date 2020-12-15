@@ -31,8 +31,11 @@ function Resume() {
                 <td>Ascend Education Centre Singapore</td>
               </tr>
               <tr>
-                <td>2020/7 ~ 2020/10</td>
-                <td>The Complete 2020 Web Development Bootcamp</td>
+                <td>2020/7 ~ Present</td>
+                <td>
+                  <p>The Complete 2020 Web Development Bootcamp</p>
+                  <p>The Complete React Native + Hooks Course</p>
+                </td>
               </tr>
             </tbody>
           </Table>
