@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bomyung-cv/static/css/main.ea1435fa.chunk.css",
+    "main.js": "/bomyung-cv/static/js/main.3f18dc9f.chunk.js",
+    "main.js.map": "/bomyung-cv/static/js/main.3f18dc9f.chunk.js.map",
+    "runtime-main.js": "/bomyung-cv/static/js/runtime-main.f0aa63c3.js",
+    "runtime-main.js.map": "/bomyung-cv/static/js/runtime-main.f0aa63c3.js.map",
+    "static/css/2.70c65505.chunk.css": "/bomyung-cv/static/css/2.70c65505.chunk.css",
+    "static/js/2.d4c8dd0a.chunk.js": "/bomyung-cv/static/js/2.d4c8dd0a.chunk.js",
+    "static/js/2.d4c8dd0a.chunk.js.map": "/bomyung-cv/static/js/2.d4c8dd0a.chunk.js.map",
+    "index.html": "/bomyung-cv/index.html",
+    "static/css/2.70c65505.chunk.css.map": "/bomyung-cv/static/css/2.70c65505.chunk.css.map",
+    "static/css/main.ea1435fa.chunk.css.map": "/bomyung-cv/static/css/main.ea1435fa.chunk.css.map",
+    "static/js/2.d4c8dd0a.chunk.js.LICENSE.txt": "/bomyung-cv/static/js/2.d4c8dd0a.chunk.js.LICENSE.txt",
+    "static/media/anniversary.a8f67962.png": "/bomyung-cv/static/media/anniversary.a8f67962.png",
+    "static/media/font-awesome.min.css": "/bomyung-cv/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/me-img.a5e4b678.jpg": "/bomyung-cv/static/media/me-img.a5e4b678.jpg",
+    "static/media/next.11a0edfe.jpg": "/bomyung-cv/static/media/next.11a0edfe.jpg",
+    "static/media/styles.css": "/bomyung-cv/static/media/title-img.4825f99b.jpg",
+    "static/media/staySafe.6b1637e3.png": "/bomyung-cv/static/media/staySafe.6b1637e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0aa63c3.js",
+    "static/css/2.70c65505.chunk.css",
+    "static/js/2.d4c8dd0a.chunk.js",
+    "static/css/main.ea1435fa.chunk.css",
+    "static/js/main.3f18dc9f.chunk.js"
+  ]
+}
