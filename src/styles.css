@@ -407,6 +407,9 @@ footer p {
 }
 
 @media (max-width: 992px) {
+  .home-img {
+    height: 670px;
+  }
   .name {
     font-size: 3.5rem;
   }
@@ -416,8 +419,7 @@ footer p {
   .details-content {
     margin-top: 10px;
   }
-  
-  
+    
 }
 
 @media (max-width: 768px) {

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import anniversary from '../../images/anniversary.png';
 import staySafe from '../../images/staySafe.png';
@@ -27,7 +26,7 @@ const ProjectDetails = () => {
                    I made this to remember my marriage and also hope that it can be an anniversary template for other couples in future.
                 </p>
                 <span>Project : </span>
-                <a href="https://bom0327.github.io/happy-anniversary/"><i class="fas fa-link"></i> bom0327.github.io/happy-anniversary</a>
+                <a target="_blank" href="https://bom0327.github.io/happy-anniversary/"><i class="fas fa-link"></i> bom0327.github.io/happy-anniversary</a>
               </div>
             </div>
           </div>
@@ -51,7 +50,7 @@ const ProjectDetails = () => {
                 <a href="https://rapidapi.com/api-sports/api/covid-193">RapidApi COVID-19</a>
                 <p>(Japan prefecture data is based on public data by Johns Hopkins CSSE.)</p>
                 <span>Project : </span>
-                <a href="https://bom0327.github.io/staySafe-covid19/"><i class="fas fa-link"></i> bom0327.github.io/staySafe-covid19</a>
+                <a target="_blank" href="https://bom0327.github.io/staySafe-covid19/"><i class="fas fa-link"></i> bom0327.github.io/staySafe-covid19</a>
 
               </div>
             </div>
