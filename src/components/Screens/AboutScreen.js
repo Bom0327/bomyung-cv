@@ -1,5 +1,5 @@
 import React from 'react';
-import About from '../About/About.js';
+import About from '../About/About';
 import Title from '../About/Title';
 import Work from '../About/Work';
 import Scroll from '../About/Scroll';

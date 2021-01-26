@@ -26,6 +26,9 @@ function NavigationBar() {
                 <Link className="nav-link" to="/about">About</Link>
               </NavItem>
               <NavItem>
+                <Link className="nav-link" to="/projects">Projects</Link>
+              </NavItem>
+              <NavItem>
                 <Link className="nav-link" to="/contact">Contact</Link>
               </NavItem>
             </Nav>

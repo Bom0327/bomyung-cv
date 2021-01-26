@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from '../Contact/Title';
-import Contact from '../Contact/Contact.js';
+import Contact from '../Contact/Contact';
 import Scroll from '../Contact/Scroll';
 
 const ContactScreen = () => {

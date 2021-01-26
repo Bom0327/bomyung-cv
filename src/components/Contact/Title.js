@@ -9,7 +9,7 @@ const Title = () => {
         <div className="title-img"></div>
 
         <div className="title-content">
-          <h2>Contact me</h2>
+          <h2>Contact</h2>
           <ol>
             <li className="first-item">
               <Link to="/">Home</Link>

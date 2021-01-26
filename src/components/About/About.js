@@ -4,7 +4,7 @@ import me from '../../images/me-img.jpg';
 function About() {
   return (
     <div className="about">
-      <div className="container">
+      <div className="container-xl">
         <div className="row">
 
           <div className="col-lg-6 col-md-6">
@@ -17,7 +17,7 @@ function About() {
                   はじめまして。私は韓国の釜山で生まれ2009年に父の仕事がきっかけで日本に来ました。
                   その後、日本で大学を卒業し社会人としてお仕事をしてきました。
                   最近はオンラインでWeb開発の授業を受講し、Webアプリの作成に没頭しています。
-              </p>
+                </p>
               </div>
             </div>
           </div>

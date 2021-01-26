@@ -55,11 +55,11 @@ function Contact() {
 
   return (
     <div className="contact">
-      <div className="container">
+      <div className="container-xl">
         <div className="row">
 
           <div className="col-lg-6 col-md-6">
-            <div className="contact-wrap">
+            <div className="contact-wrap-left">
               <h2>
                 <i class="fas fa-address-book"></i> Contact me
               </h2>
@@ -124,7 +124,7 @@ function Contact() {
 
 
           <div className="col-lg-6 col-md-6">
-            <div className="contact-wrap">
+            <div className="contact-wrap-right">
               <div className="map-container">
                 <MyHome />
               </div>

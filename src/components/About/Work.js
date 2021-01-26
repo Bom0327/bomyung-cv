@@ -18,7 +18,7 @@ const Work = () => {
 
   return (
     <div className="work">
-      <div className="container">
+      <div className="container-xl">
         <div className="work-title">
           <h2>
             <i className="fas fa-archive"></i> Work Experience
@@ -119,7 +119,7 @@ const Work = () => {
                       CADオペレーター
                   </Typography>
                     <Typography variant="body2" component="p">
-                      慶應義塾大学病院の改修工事にて、図面修正及び補助業務
+                      慶應義塾大学病院の改修工事にて、図面修正・チェック及び補助業務
                   </Typography>
                   </CardContent>
                 </Card>
