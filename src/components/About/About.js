@@ -59,6 +59,7 @@ function About() {
                       <p class="date">2020/7 ~ Present</p>
                       <p>The Complete 2020 Web Development Bootcamp</p>
                       <p>The Complete React Native + Hooks Course</p>
+                      <p>Free Code Camp</p>
                     </div>
                   </div>
 
