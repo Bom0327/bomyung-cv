@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bomyung-cv/static/css/main.a9843a98.chunk.css",
-    "main.js": "/bomyung-cv/static/js/main.19b94917.chunk.js",
-    "main.js.map": "/bomyung-cv/static/js/main.19b94917.chunk.js.map",
+    "main.js": "/bomyung-cv/static/js/main.6ec08f91.chunk.js",
+    "main.js.map": "/bomyung-cv/static/js/main.6ec08f91.chunk.js.map",
     "runtime-main.js": "/bomyung-cv/static/js/runtime-main.f0aa63c3.js",
     "runtime-main.js.map": "/bomyung-cv/static/js/runtime-main.f0aa63c3.js.map",
     "static/css/2.70c65505.chunk.css": "/bomyung-cv/static/css/2.70c65505.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.70c65505.chunk.css",
     "static/js/2.d4c8dd0a.chunk.js",
     "static/css/main.a9843a98.chunk.css",
-    "static/js/main.19b94917.chunk.js"
+    "static/js/main.6ec08f91.chunk.js"
   ]
 }
